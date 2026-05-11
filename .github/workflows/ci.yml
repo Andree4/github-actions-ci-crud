@@ -40,4 +40,4 @@ jobs:
 
       - name: Generar reporte de cobertura
         if: success()
-        run: echo "Workflow completado correctamente con cobertura generada."
+        run: echo "Workflow completado correctamente."
